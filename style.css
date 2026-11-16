@@ -1,0 +1,26 @@
+p{
+    color:blue;
+    text-align: left ;
+}
+.two_text_background{
+    color: red;
+    text-align: right;
+}
+.th_text_background{
+    color: rgb(136, 255, 0);
+    text-align: center;
+}
+.fo_text_background{
+    color: rgb(255, 0, 221)
+}
+.fi_text_background{
+    color: rgb(255, 145, 0);
+    text-align: justify;
+}
+body{
+    background-image: url(cat.jpg);
+}
+.icon{
+    background-color: azure;
+    list-style-type: style square;;
+}
