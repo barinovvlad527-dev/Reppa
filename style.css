@@ -1,6 +1,7 @@
 p{
-    color:blue;
+    color:rgb(248, 248, 252);
     text-align: left ;
+    padding:20px;
 }
 .two_text_background{
     color: red;
@@ -17,10 +18,35 @@ p{
     color: rgb(255, 145, 0);
     text-align: justify;
 }
-body{
+.index.html{
     background-image: url(cat.jpg);
 }
 .icon{
     background-color: azure;
     list-style-type: style square;;
+}
+#main-header{
+    background-color: aliceblue;
+    margin: 30px;
+    border: 30px;
+}
+#one{
+    margin: 50px;
+    border: 2px solid red;
+    background-color: aquamarine;
+    display: grid;
+
+}
+
+#two{
+    margin: 80px;
+    border: 2px solid red;
+    background-color:black;
+    display: grid;
+}
+#three{
+    margin: 110px;
+    border: 2px solid red;
+    background-color: brown;
+    display: grid;
 }
