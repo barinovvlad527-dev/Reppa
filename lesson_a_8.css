@@ -1,0 +1,95 @@
+#elem1 {
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	
+	width: 100px;
+	height: 100px;
+	background: #ff8888;
+    z-index: 1;
+}
+#elem2 {
+	position: absolute;
+	top: 90px;
+	left: 90px;
+	
+	width: 100px;
+	height: 100px;
+	background: #7e89eb;
+    z-index: 2;
+}
+
+#elem3 {
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	
+	width: 100px;
+	height: 100px;
+	background: #5eff00;
+    z-index: 1;
+}
+
+#elem4 {
+	position: absolute;
+	top: 250px;
+	left: 30px;
+	
+	width: 100px;
+	height: 100px;
+	background: #ff8888;
+    z-index: 3;
+}
+#elem5 {
+	position: absolute;
+	top: 310px;
+	left: 90px;
+	
+	width: 100px;
+	height: 100px;
+	background: #7e89eb;
+    z-index: 2;
+}
+
+#elem6 {
+	position: absolute;
+	top: 370px;
+	left: 150px;
+	
+	width: 100px;
+	height: 100px;
+	background: #5eff00;
+    z-index: 1;
+}
+
+#elem7 {
+	position: absolute;
+	top: 470px;
+	left: 30px;
+	
+	width: 100px;
+	height: 100px;
+	background: #ff8888;
+    z-index: 1;
+}
+#elem8 {
+	position: absolute;
+	top: 530px;
+	left: 90px;
+	
+	width: 100px;
+	height: 100px;
+	background: #7e89eb;
+    z-index: -1;
+}
+
+#elem9 {
+	position: absolute;
+	top: 590px;
+	left: 150px;
+	
+	width: 100px;
+	height: 100px;
+	background: #5eff00;
+    z-index: 1;
+}
