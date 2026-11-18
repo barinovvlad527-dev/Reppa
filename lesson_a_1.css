@@ -1,20 +1,26 @@
 #one{
     position:absolute;
     top:50px;
-    left: 50px; 
+    left: 0px; 
 }
 
 
 #two{
     position:absolute;
     top:500px;
-    left: 50px; 
+    left: 0px; 
 }
 
 #three{
     position:absolute;
     top:950px;
-    left: 100px; 
+    left: 0px; 
+}
+
+#four{
+    position: absolute;
+    top: 1200px;
+    left: 0px;
 }
 
 #elem1 {
@@ -106,6 +112,39 @@
     left: 250px;
 
     border: 1px solid #008000;
+    width: 100px;
+	height: 100px;
+}
+
+#elem10 {
+    position: absolute;
+    top: 1200px;
+    left: 100px;
+
+    border: 1px solid red;
+    background-color: red;
+    width: 100px;
+	height: 100px;
+}
+
+#elem11 {
+    position: absolute;
+    top: 1275px;
+    left: 175px;
+
+    border: 1px solid rgb(0, 84, 194);
+    background-color:  rgb(0, 84, 194);
+    width: 100px;
+	height: 100px;
+}
+
+#elem12 {
+    position: absolute;
+    top: 1350px;
+    left: 250px;
+
+    border: 1px solid #008000;
+    background-color: #008000;
     width: 100px;
 	height: 100px;
 }
