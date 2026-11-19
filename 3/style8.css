@@ -5,7 +5,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #ff8888;
+	background: #ff0000;
     z-index: 1;
 }
 #elem2 {
@@ -15,7 +15,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #7e89eb;
+	background: #001aff;
     z-index: 2;
 }
 
@@ -26,7 +26,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #5eff00;
+	background: #399c00;
     z-index: 1;
 }
 
@@ -37,7 +37,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #ff8888;
+	background: #ff0000;
     z-index: 3;
 }
 #elem5 {
@@ -47,7 +47,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #7e89eb;
+	background: #001aff;
     z-index: 2;
 }
 
@@ -69,7 +69,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #ff8888;
+	background: #ff0000;
     z-index: 1;
 }
 #elem8 {
@@ -79,7 +79,7 @@
 	
 	width: 100px;
 	height: 100px;
-	background: #7e89eb;
+	background: #001aff;
     z-index: -1;
 }
 

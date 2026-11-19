@@ -6,7 +6,7 @@
 	width: 100px;
 	height: 100px;
 	margin-bottom: 20px;
-	background-color: #FF8888;
+	background-color: #ff0000;
 }
 #elem2 {
     position: relative;
@@ -16,7 +16,7 @@
 	width: 100px;
 	height: 100px;
 	margin-bottom: 20px;
-	background-color: #7E89EB;
+	background-color: #001aff;
 }
 #elem3 {
     position: relative;
@@ -26,5 +26,5 @@
 	width: 100px;
 	height: 100px;
 	margin-bottom: 20px;
-	background-color: #4DEE99;
+	background-color: #00ff77;
 }
